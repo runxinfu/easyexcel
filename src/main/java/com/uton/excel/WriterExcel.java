@@ -91,7 +91,7 @@ public class WriterExcel {
     }
 
     /**
-      * @description 客户端Excel导出
+      * @description 基于BaseRowModel进行客户端Excel导出
       * @Params [response, data, fileName, sheetName, object]
       * @return void
       * @Author furunxin
